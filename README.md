@@ -1,1 +1,1 @@
-![My Image](images/my-image.png)
+![My Image](app/src/main/res/drawable/ss1.png)
