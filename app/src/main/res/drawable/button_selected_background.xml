@@ -1,0 +1,6 @@
+<!-- res/drawable/button_selected_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFC107" /> <!-- Selected background color, amber -->
+    <corners android:radius="20dp" /> <!-- Optional corner radius -->
+    <stroke android:width="2dp" android:color="#FF9800" /> <!-- Optional border color -->
+</shape>
